@@ -1,0 +1,20 @@
+1. Syarat utama menggunakan flex box adalah menyertakan property
+display:flex;
+2. terdapat istilah main untuk horizontal (lebar container) dan cross untuk vertikal (tinggi cpntainer)
+3. mengubah arah menggunakan property
+flex-direction:row | row-reverse | column | column-reverse;
+4. menindah item kebawah apabila container penuh
+flex-wrap:nowrap | wrap | wrap-reverse;
+5. mengatur jarak antar item dan posisi rata item horizontal
+justify-content:;
+6. mengatur jarak antar item dan posisi rata item vertikal
+align-items:;
+7. mengatur jarak antar item dan posisi rata item vertikal
+align-content:;
+8. mengatur posisi gunakan property
+order:;
+9. mengatur ukuran item gunakan property
+flex-grow:; atau flex:;
+10. mengatur jarak antar item dan posisi rata item vertikal manual
+align-self:;
+
